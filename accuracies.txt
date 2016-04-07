@@ -1,0 +1,24 @@
+--------Dataset 1--------
+Correct Predictions: 737
+Inorrect Predictions: 28
+Accuracy in %: 96%
+
+--------Dataset 2--------
+Correct Predictions: 180
+Inorrect Predictions: 4
+Accuracy in %: 97%
+
+--------Dataset 3--------
+Correct Predictions: 162
+Inorrect Predictions: 112
+Accuracy in %: 59%
+
+--------Dataset 4--------
+Correct Predictions: 288
+Inorrect Predictions: 32
+Accuracy in %: 90%
+
+--------Dataset 5--------
+Correct Predictions: 3157
+Inorrect Predictions: 341
+Accuracy in %: 90%
